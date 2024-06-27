@@ -6,3 +6,9 @@ lista de compras de practica
 -- Primer commit // Gabriel Muñoz
 
 -- Commit desde la rama Cristopher Vergara
+
+
+-- Commit desde la rama Cristopher Vergara 
+
+
+** Aquí estuvo Erasto
