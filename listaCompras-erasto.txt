@@ -1,0 +1,7 @@
+    **Lista de articulos**
+    - Carnes
+    - Huevos
+    - Pan
+    - Mantequilla
+    - Cebolla.
+    - Coca-cola
