@@ -8,7 +8,7 @@ lista de compras de practica
 -- Commit desde la rama Cristopher Vergara
 
 
--- Commit desde la rama Cristopher Vergara 
+-- Commit desde la rama Cristopher Vergara Colombo 
 
 
 ** Aquí estuvo Erasto
