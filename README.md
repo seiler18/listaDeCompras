@@ -5,4 +5,4 @@ lista de compras de practica
 
 -- Primer commit // Gabriel Muñoz
 
--- Commit en main Cristopher Vergara
+-- Commit desde la rama Cristopher Vergara
